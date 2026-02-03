@@ -1,0 +1,2 @@
+numpy>=1.20.0    # Efficient bit operations
+tqdm>=4.60.0     # Progress bars

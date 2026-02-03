@@ -1,0 +1,8 @@
+# Genome files (too large for git)
+genome/
+*.fa
+*.fasta
+*.fa.gz
+*.fasta.gz
+*.fna
+*.fna.gz
